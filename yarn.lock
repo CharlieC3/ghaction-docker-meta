@@ -1176,10 +1176,10 @@ cssstyle@^2.2.0:
   dependencies:
     cssom "~0.3.6"
 
-csv-parse@^4.15.1:
-  version "4.15.1"
-  resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-4.15.1.tgz#fc5a0a1b24eaa6d4c24892daa387c46f7f92f8d2"
-  integrity sha512-TXIvRtNp0fqMJbk3yPR35bQIDzMH4khDwduElzE7Fl1wgnl25mnWYLSLqd/wS5GsDoX1rWtysivEYMNsz5jKwQ==
+csv-parse@^5.3.2:
+  version "5.3.2"
+  resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-5.3.2.tgz#a8ce2f8dec1b9c1013c9e73c6102fe0d2d436dbb"
+  integrity sha512-3jQ/JMs+voKxr4vwpmElS1d37J0o6rQdQyEKoPyA9HG8fYczpLaBJnmp5ykvkXL8ZeEGVP0qwLU645BZVykXKw==
 
 dashdash@^1.12.0:
   version "1.14.1"
